@@ -1,0 +1,13 @@
+{
+  "name": "photo_forensics",
+  "version": "1.0.0",
+  "description": "A tool for doing image forensics",
+  "main": "app.js",
+  "repository": "https://github.com/daggieblanqx/photo_forensics",
+  "author": "DaggieBlanqx",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "concat-frames": "^1.0.3",
+    "jpg-stream": "^1.1.2"
+  }
+}
